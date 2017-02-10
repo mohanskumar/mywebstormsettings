@@ -23,9 +23,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="iife" value="(function() {&#10;  'use strict';&#10;  &#10;})();" shortcut="TAB" description="Immediately invoking function expression" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="iife" value="(function() {&#10;  'use strict';&#10;  &#10;})();" shortcut="TAB" description="Immediately invoking function expression" toReformat="true" toShortenFQNames="true" />
   <template name="iife1" value=" (function() {&#10;   'use strict';&#10;   &#10; })();" description="ng identifi factory" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />

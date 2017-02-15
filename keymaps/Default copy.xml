@@ -30,6 +30,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Macro.format and save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift r" />
   </action>

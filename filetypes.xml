@@ -6,6 +6,7 @@
       <mapping pattern="hub" type="JavaScript" />
       <mapping pattern="application-controller" type="JavaScript" />
       <mapping pattern="fax-types.js" type="PLAIN_TEXT" />
+      <mapping ext="pipe" type="TypeScript" />
     </extensionMap>
   </component>
 </application>

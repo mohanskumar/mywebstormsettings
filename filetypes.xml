@@ -3,11 +3,12 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="application-controller" type="JavaScript" />
       <mapping pattern="contact" type="JavaScript" />
       <mapping pattern="hub" type="JavaScript" />
-      <mapping pattern="application-controller" type="JavaScript" />
       <mapping pattern="fax-types.js" type="PLAIN_TEXT" />
       <mapping pattern="form-utils" type="TypeScript" />
+      <mapping pattern="rounds-selector" type="TypeScript" />
       <mapping ext="pipe" type="TypeScript" />
     </extensionMap>
   </component>
